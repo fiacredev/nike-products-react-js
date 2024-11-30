@@ -1,0 +1,113 @@
+
+.cards{
+    padding: 50px;
+    display: flex;
+    justify-content: space-between;
+}
+.cards .card{
+    width: 300px;
+    height: 170px;
+    color: #333;
+    padding: 20px;
+    margin-bottom: 20px;
+    background-color: #d7c7c7;
+    border-radius: 20px;
+    box-shadow: 3px 3px rgb(224, 87, 87);
+}
+.cards .card .bi{
+    font-weight: bold;
+    color: #fff;
+    font-size: 20px;
+    background-color: rgb(228, 60, 60);
+    width: 23px;
+    padding: 10px;
+    border-radius: 50%;
+}
+.cards .card .text-2{
+    text-transform: capitalize;
+    margin-top: -7px;
+}
+.cards .card .text-3{
+    font-size: 17px;
+    margin-top: -6px;
+    font-family: sans-serif;
+}
+.specialOffers{
+    display: flex;
+    justify-content: space-between;
+}
+.specialOffers .picBox{
+    margin-top: 130px;
+}
+.specialOffers .picBox .firstC{
+   width: 200px;
+   margin-right: -90px;
+   border-radius: 20px;
+   margin-bottom: 60px;
+   border: 2px solid red;
+}
+.specialOffers .picBox .secondC{
+    width: 400px;
+    height: 170px;
+    border-radius: 20px;
+    border: 2px solid rgb(200, 79, 79);
+}
+.specialOffers .picBox{
+    display: flex;
+}
+.specialOffers .picBox .discount{
+    background-color: #333;
+    width: 50px;
+    height: 80px;
+    padding: 30px;
+    padding-left: 20px;
+    padding-top: 1px;
+    border-top-left-radius: 90px;
+    border-bottom-left-radius: 90px;
+    border-top-right-radius: 70px;
+    text-align: center;
+    color: #f9e2e2;
+    margin-top: 66px;
+    margin-left: -30px;
+    /* border-radius: 50%; */
+}
+.specialOffers .picBox .discount h3{
+    font-size: 30px;
+}
+.specialOffers .picBox .discount .text-1{
+    font-size: 20px;
+    margin-top: -40px;
+    font-weight: bold;
+    margin-left: 10px;
+    text-transform: uppercase;
+}
+.offers{
+    margin-top: 100px;
+    padding-right: 130px;
+}
+.offers span{
+    color: rgb(212, 42, 42);
+}
+.offers .text-1{
+    text-transform: capitalize;
+    font-size: 27px;
+    font-weight: bold;
+    color:#333
+}
+.offers .parag-1{
+    color: #333;
+    margin-top: -20px;
+    margin-bottom: 23px;
+}
+.offers .buttons button{
+    padding: 10px;
+    width: 150px;
+    height: 38px;
+    border: none;
+    font-size: 17px;
+    background-color:rgb(223, 24, 24);
+    color: #fff;
+    text-transform: capitalize;
+    border-radius: 20px;      
+    margin-right: 20px;
+}

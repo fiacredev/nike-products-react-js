@@ -1,0 +1,66 @@
+.home{
+    margin-top: 10px;
+    padding-left: 50px;
+    display: flex;
+    justify-content: space-between;
+}
+.cont-1 .text-1{
+    font-size: 18px;
+    text-transform: capitalize;
+    color: #474242;
+}
+.cont-1 .text-2{
+    font-size: 40px;
+    text-transform: capitalize;
+    color: #5a5555;
+}
+.cont-1 .text-3{
+    font-size: 19px;
+    color: grey;
+}
+.cont-1 .text-2 span{
+    color: rgb(247, 32, 65);
+}
+.cont-1 .shop-but{
+    width: 170px;
+    height: 33px;
+    border: none;
+    font-size: 14px;
+    background-color:rgb(255, 35, 35);
+    color: #fff;
+    text-transform: capitalize;
+    border-radius: 20px;
+}
+.cont-1 .main-bold{
+    display: flex;
+}
+.cont-1 .bold h4{
+    font-size: 27px;
+    color: #333;
+    margin-right: 43px;
+}
+.cont-1 .bold .hsix{
+    font-size: 10px;
+    margin-top: 1px;
+    text-transform: capitalize;
+    color: grey;
+}
+.cont-2{
+    margin-top: 30px;
+    padding-right: 100px;
+}
+.cont-2 img{
+    margin-top: 20px;
+}
+.cont-2 .cont2-img img{
+    margin-right: 2px;
+    height: 70px;
+    border: 2px solid rgb(252, 48, 48);
+    border-radius: 10px;
+}
+.cont-2 .ref{
+    width: 500px;
+    height: 300px;
+    border-radius: 10px;
+    /* border: 2px solid green; */
+}

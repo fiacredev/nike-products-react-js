@@ -1,0 +1,91 @@
+.popProd{
+    margin-top: 30px;
+    padding: 50px;
+    /* border: 2px solid green; */
+}
+.popProd .text-1{
+    font-size: 23px;
+    text-transform: capitalize;
+    font-size: 27px;
+    font-weight: bold;
+    margin-top: -2px;
+    color:#5a5555;;
+}
+.popProd span{
+    color: rgb(207, 59, 59);
+}
+.popProd .text-2{
+    margin-top:-10px;
+    color: rgb(110, 103, 103);
+    font-weight: bold;
+    text-transform: capitalize;
+    font-size: 17px;
+    margin-bottom: 40px;
+    color: grey;
+    
+}
+.popProd .text-3{
+    margin-top: -10px;
+    font-weight: bold;
+    font-size: 12px;
+}
+.popProd .img-cont{
+    display: flex;
+    justify-content: space-between;
+}
+.popProd .img-cont .cont{
+    width: 200px;
+    height: 300px;
+}
+.popProd .img-cont .cont .text-1{
+    font-size: 19px;
+    color: rgb(207, 59, 59);
+}
+.popProd .img-cont .cont span{
+    color: #605858;
+}
+.popProd .img-cont .cont .text-3{
+    color: rgb(223, 24, 24);
+    font-size: 17px;
+    margin-top: -30px;
+    font-weight: bold;
+}
+.popProd .img-cont .cont img{
+    margin-top: 40px;
+    margin-left: 1px;
+    border: 2px solid rgb(207, 59, 59);
+    border-radius: 10px;
+}
+.popProd .superQuality{
+    margin-top: 50px;
+}
+.popProd .superQuality .cont p{
+    font-size: 17px;
+    color: grey;
+    font-family:sans-serif;
+    margin-bottom: 27px;
+}
+.popProd .superQuality .cont span{
+    color: rgb(207, 59, 59);
+}
+.popProd .superQuality .cont .but{
+    width: 170px;
+    height: 33px;
+    border: none;
+    font-size: 14px;
+    background-color:rgb(223, 24, 24);
+    color: #fff;
+    text-transform: capitalize;
+    border-radius: 20px;   
+}
+.popProd .superQuality{
+    display: flex;
+    justify-content: space-between;
+}
+.popProd .superQuality img{
+    width: 400px;
+    height: 250px;
+    margin-top: 20px;
+    margin-right: 120px;
+    border-radius: 23px;
+}

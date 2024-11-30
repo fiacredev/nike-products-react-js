@@ -1,0 +1,105 @@
+
+.CustomerSay{
+   background-color: rgb(229, 189, 189); 
+   margin-top: 70px;
+   padding: 50px;
+}
+.CustomerSay .say{
+   text-align: center;
+   padding-bottom: 30px;
+}
+.CustomerSay .say .text-1{
+    font-size: 23px;
+    text-transform: capitalize;
+    color: #333;
+}
+.CustomerSay .say span{
+    color: rgb(238, 53, 53);
+}
+.CustomerSay .say .text-2{
+    margin-top: -15px;
+    color: #333;
+}
+.CustomerSay .say .sayBox{
+    display: flex;
+    justify-content: center;
+    gap: 300px;
+}
+.CustomerSay .say .sayBox .box{
+    background-color: rgb(198, 137, 137);
+    width: 370px;
+    height: 300px;
+    border-radius: 20px;
+    text-align: center;
+}
+.CustomerSay .say .sayBox .box img{
+    margin-left: 37px;
+    margin-top: 20px;
+    width: 100px;
+    height: 90px;
+    border-radius: 90%;
+    text-align: center;
+}
+.CustomerSay .say .sayBox .box .text-3{
+    color: #333;
+    font-size: 16px;
+}
+.CustomerSay .say .sayBox .box .bi{
+    font-size: 20px;
+    margin-top: -7px;
+    font-weight: bold;
+    color: rgb(244, 43, 43);
+}
+.CustomerSay .say .sayBox .box span{
+    color: #333;
+    font-size: 13px;
+}
+.CustomerSay .say .sayBox .box .text-4{
+    font-size: 20px;
+    margin-top: -20px;
+    color: #333;
+}
+.CustomerSay .sign{
+    display: flex;
+    justify-content: space-between;
+}
+.CustomerSay .sign span{
+    color: rgb(241, 73, 73);
+}
+.CustomerSay .sign .text-5{
+    font-size: 33px;
+    color: #333;
+    text-transform: capitalize;
+}
+.CustomerSay .signUp{
+    width: 400px;
+    height: 50px;
+    padding: 10px;
+    padding-top: 12px;
+    padding-bottom: 10px;
+    text-align: center;
+    border-radius: 80px;
+    margin-top: 80px;
+    border: 1px solid #333;
+    background-color:#fff;
+}
+.CustomerSay .signUp input{
+    width: 250px;
+    height: 47px;
+    margin-right: 17px;
+    outline: none;
+    border: none;
+    border-radius: 40px;
+    padding-left: 20px;
+    font-size: 17px;
+}
+.CustomerSay .signUp .button{
+    font-size: 19px;
+    text-transform: capitalize;
+    width: 100px;
+    height: 40px;
+    color: #fff;
+    border: none;
+    background-color: rgb(249, 62, 62);
+    border-radius: 20px;
+}

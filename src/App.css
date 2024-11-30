@@ -1,0 +1,10 @@
+.App {
+  color: green;
+}
+
+@media only screen and (max-width:70px){
+  .home{
+    display: flex;
+    flex-direction: column;
+  }
+}
