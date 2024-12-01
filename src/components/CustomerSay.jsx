@@ -1,3 +1,4 @@
+// we first import react from react
 import React from 'react'
 import Design from './CustomerSay.css'
 import a from '../images/look/per01.jpg'

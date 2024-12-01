@@ -1,3 +1,4 @@
+// this side about to deal with special offers on our pages
 import React from 'react'
 import Design from'./SpecialOffers.css'
 import bootstrap from '../Bootstrap icon/icons/bootstrap-icons.css'
