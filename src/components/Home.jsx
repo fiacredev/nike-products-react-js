@@ -1,3 +1,4 @@
+// here we are dealing with handling the home page
 import React, { useState } from 'react'
 import mainShoe from '../images/look/a.jpg'
 import Design from './Home.css'
